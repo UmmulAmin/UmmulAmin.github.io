@@ -1,0 +1,37 @@
+h1{
+	color: white;
+	text-align: center;
+	background-color: darkslategray;
+	}
+#mella{
+	width: 50%;
+	margin: 0 auto;
+	padding: 0;
+	border-left: 2px solid gray;
+	border-right:2px solid gray;
+	box-sizing: border-box;
+	font-family: Arial,sans-serif;
+	background-color: lightblue;
+	}
+	#Login-container{
+		background-color: lightblue;
+		padding: 20px;
+		margin: 100px auto;
+		max-width: 400px;
+		border-radius: 10px;
+		box-shadow: 0px 0px 10px rgb(0,0,0,0.1);
+	}
+	h2{
+		margin-top: 0px;
+		text-align: center;
+	}
+	use{
+		display: inline-block;
+		margin-bottom: 5px;
+	}
+	input[type=submit]:hover{
+		background-color: pink;
+	}
+	#button{
+		margin-right: 40px;
+	}
